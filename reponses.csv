@@ -1,0 +1,571 @@
+﻿id;public;theme;modalite;valeur;structure;milieu;situation_aidant;age;mode_de_vie;logement;situation_proche;entouree
+PRO01;Professionnels;Répondant;;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Bien vieillir;Continuer ses activités et ses projets;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Bien vieillir;Préserver sa santé et sa forme;1;Centre social;Semi-urbain;Occasionnelle;;;;;1
+PRO01;Professionnels;Bien vieillir;Garder des liens et une vie sociale;1;Centre social;Semi-urbain;Occasionnelle;;;;;1
+PRO01;Professionnels;Domaine;1. Sortir se deplacer;Des difficultés régulières;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;3. Soins autonomie;Des difficultés régulières;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;4. Deplacement domicile securite;Quelques contraintes;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;5. Entretien logement;Des difficultés régulières;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;6. Demarches numerique;Quelques contraintes;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;7. Sante traitements;Des difficultés régulières;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;9. Vie sociale;Des difficultés régulières;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;10. Securite;Quelques contraintes;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Domaine;11. Accompagner proche;Des difficultés régulières;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Priorité;11. Accompagner proche;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Solutions;Applications mobiles;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Solutions;Adaptation du logement;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Solutions;Services à domicile;1;Centre social;Semi-urbain;Occasionnelle;;;;;1
+PRO01;Professionnels;Solutions;Entraide entre voisins;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Solutions;Prévention des chutes;1;Centre social;Semi-urbain;Occasionnelle;;;;;1
+PRO01;Professionnels;Solutions;Détection de chute;1;Centre social;Semi-urbain;Occasionnelle;;;;;1
+PRO01;Professionnels;Aidants;Formation aux gestes;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Nouveauté;Réticent;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Adoption;Personne joignable;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO01;Professionnels;Adoption;Maîtrise de ses choix;1;Centre social;Semi-urbain;Occasionnelle;;;;;0
+PRO02;Professionnels;Répondant;;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;Association (habitat inclusif);;Très fréquente;;;;;1
+PRO02;Professionnels;Bien vieillir;Préserver sa santé et sa forme;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Bien vieillir;Se déplacer facilement;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Bien vieillir;Continuer ses activités et ses projets;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Bien vieillir;Se sentir en sécurité;1;Association (habitat inclusif);;Très fréquente;;;;;1
+PRO02;Professionnels;Domaine;1. Sortir se deplacer;Des difficultés régulières;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;2. Courses repas;Des difficultés régulières;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;3. Soins autonomie;Quelques contraintes;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;4. Deplacement domicile securite;Quelques contraintes;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;5. Entretien logement;Des difficultés régulières;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;6. Demarches numerique;Des difficultés régulières;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;7. Sante traitements;Quelques contraintes;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;8. Coordination professionnels;Des difficultés régulières;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;9. Vie sociale;Quelques contraintes;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;10. Securite;Quelques contraintes;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Domaine;11. Accompagner proche;Quelques contraintes;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Priorité;6. Demarches numerique;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Solutions;Aide et formation au numérique;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Solutions;Accompagnement humain et conciergerie;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Solutions;Accès simplifié aux aides;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Aidants;Solutions de répit;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Aidants;Accompagnement personnalisé;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Nouveauté;Prêt si présenté et accompagné;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Adoption;Utilisation très simple;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO02;Professionnels;Adoption;Personne joignable;1;Association (habitat inclusif);;Très fréquente;;;;;0
+PRO03;Professionnels;Répondant;;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Bien vieillir;Garder des liens et une vie sociale;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;1. Sortir se deplacer;Des difficultés régulières;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;2. Courses repas;Des difficultés régulières;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;3. Soins autonomie;Quelques contraintes;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;4. Deplacement domicile securite;Quelques contraintes;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;5. Entretien logement;Quelques contraintes;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;6. Demarches numerique;Des difficultés régulières;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;7. Sante traitements;Quelques contraintes;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;8. Coordination professionnels;Quelques contraintes;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;9. Vie sociale;Des difficultés régulières;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;10. Securite;Des difficultés régulières;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Domaine;11. Accompagner proche;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Aides techniques;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Détection de chute;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Visio et messagerie;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Tablettes simplifiées;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Aide et formation au numérique;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Suivi de santé à distance;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Prévention des chutes;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;1
+PRO03;Professionnels;Solutions;Stimulation de la mémoire;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Adaptation du logement;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Habitat intermédiaire;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Aménagement quartiers;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Livraison et commerces;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Transports et mobilité partagée;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Solutions;Accès simplifié aux aides;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;1
+PRO03;Professionnels;Solutions;Lieux de rencontre;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;1
+PRO03;Professionnels;Solutions;Bénévolat et engagement;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Aidants;Information claire aides/droits;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Aidants;Formation aux gestes;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Nouveauté;Prêt si présenté et accompagné;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Adoption;Prix abordable;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO03;Professionnels;Adoption;Utilisation très simple;1;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO04;Professionnels;Répondant;;1;;;;;;;;0
+PRO04;Professionnels;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;;;;;;;0
+PRO04;Professionnels;Domaine;2. Courses repas;Pas concerné / pas un sujet;;;;;;;;0
+PRO04;Professionnels;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;;;;;;;0
+PRO04;Professionnels;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;;;;;;;0
+PRO04;Professionnels;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;;;;;;;0
+PRO04;Professionnels;Domaine;6. Demarches numerique;Des difficultés régulières;;;;;;;;0
+PRO04;Professionnels;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;;;;;;;0
+PRO04;Professionnels;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;;;;;;;;0
+PRO04;Professionnels;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;;;;;;;0
+PRO04;Professionnels;Domaine;10. Securite;Des difficultés régulières;;;;;;;;0
+PRO04;Professionnels;Domaine;11. Accompagner proche;Aucune difficulté, mais à anticiper;;;;;;;;0
+PRO04;Professionnels;Solutions;Maison connectée;1;;;;;;;;0
+PRO04;Professionnels;Solutions;Objets connectés portés;1;;;;;;;;0
+PRO04;Professionnels;Solutions;Détection de chute;1;;;;;;;;0
+PRO04;Professionnels;Solutions;Robots et assistants;1;;;;;;;;0
+PRO04;Professionnels;Solutions;Adaptation du logement;1;;;;;;;;0
+PRO04;Professionnels;Aidants;Non concerné(e);1;;;;;;;;0
+PRO04;Professionnels;Nouveauté;Attentiste;1;;;;;;;;0
+PRO04;Professionnels;Adoption;Maîtrise de ses choix;1;;;;;;;;0
+PRO05;Professionnels;Répondant;;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Bien vieillir;Se déplacer facilement;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;1. Sortir se deplacer;Quelques contraintes;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;2. Courses repas;Des difficultés régulières;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;4. Deplacement domicile securite;Quelques contraintes;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;5. Entretien logement;Quelques contraintes;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;6. Demarches numerique;Des difficultés régulières;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;9. Vie sociale;Quelques contraintes;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;10. Securite;Aucune difficulté, mais à anticiper;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Domaine;11. Accompagner proche;Quelques contraintes;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Priorité;2. Courses repas;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Solutions;Services à domicile;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Solutions;Prévention des chutes;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Solutions;Détection de chute;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Aidants;Information claire aides/droits;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Aidants;Formation aux gestes;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Nouveauté;Réticent;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Adoption;Installation et prise en main assurées;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO05;Professionnels;Adoption;Objet discret;1;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO06;Professionnels;Répondant;;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Bien vieillir;Préserver sa santé et sa forme;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;1. Sortir se deplacer;Quelques contraintes;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;2. Courses repas;Quelques contraintes;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;3. Soins autonomie;Quelques contraintes;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;5. Entretien logement;Quelques contraintes;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;6. Demarches numerique;Des difficultés régulières;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;7. Sante traitements;Des difficultés régulières;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;8. Coordination professionnels;Des difficultés régulières;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;9. Vie sociale;Pas concerné / pas un sujet;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;10. Securite;Pas concerné / pas un sujet;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Domaine;11. Accompagner proche;Pas concerné / pas un sujet;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Priorité;6. Demarches numerique;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Solutions;Coordination des soins;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Solutions;Accès simplifié aux aides;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Aidants;Information claire aides/droits;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Aidants;Solutions de répit;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Nouveauté;Réticent;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Adoption;Utilisation très simple;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO06;Professionnels;Adoption;Maîtrise de ses choix;1;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO07;Professionnels;Répondant;;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Bien vieillir;Préserver sa santé et sa forme;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;1. Sortir se deplacer;Quelques contraintes;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;3. Soins autonomie;Quelques contraintes;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;4. Deplacement domicile securite;Quelques contraintes;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;5. Entretien logement;Des difficultés régulières;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;6. Demarches numerique;Quelques contraintes;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;9. Vie sociale;Quelques contraintes;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;10. Securite;Des difficultés régulières;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Domaine;11. Accompagner proche;Des difficultés régulières;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Priorité;6. Demarches numerique;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Aides techniques;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Tablettes simplifiées;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Prévention des chutes;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Stimulation de la mémoire;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Coordination des soins;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Adaptation du logement;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Habitat partagé ou inclusif;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Rénovation et confort;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Services à domicile;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Livraison et commerces;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Transports et mobilité partagée;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Accès simplifié aux aides;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Activités collectives;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Projets intergénérationnels;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Solutions;Lieux de rencontre;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Aidants;Information claire aides/droits;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Aidants;Solutions de répit;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Nouveauté;Prêt si présenté et accompagné;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Adoption;Maîtrise de ses choix;1;CCAS / collectivité;;Rare;;;;;0
+PRO07;Professionnels;Adoption;Respect de la vie privée;1;CCAS / collectivité;;Rare;;;;;0
+PRO08;Professionnels;Répondant;;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;1. Sortir se deplacer;Quelques contraintes;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;2. Courses repas;Quelques contraintes;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;3. Soins autonomie;Quelques contraintes;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;6. Demarches numerique;Des difficultés régulières;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;7. Sante traitements;Quelques contraintes;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;8. Coordination professionnels;Quelques contraintes;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;9. Vie sociale;Quelques contraintes;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Domaine;11. Accompagner proche;Quelques contraintes;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Solutions;Applications mobiles;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Solutions;Suivi de santé à distance;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Solutions;Stimulation de la mémoire;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Solutions;Coordination des soins;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Solutions;Habitat intermédiaire;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Aidants;Information claire aides/droits;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Nouveauté;Prêt si présenté et accompagné;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Adoption;Installation et prise en main assurées;1;Centre social;Urbain;Fréquente;;;;;0
+PRO08;Professionnels;Adoption;Fonctionnement fiable;1;Centre social;Urbain;Fréquente;;;;;0
+PRO09;Professionnels;Répondant;;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Bien vieillir;Continuer ses activités et ses projets;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;1. Sortir se deplacer;Des difficultés régulières;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;2. Courses repas;Des difficultés régulières;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;4. Deplacement domicile securite;Quelques contraintes;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;5. Entretien logement;Des difficultés régulières;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;6. Demarches numerique;Des difficultés régulières;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;9. Vie sociale;Pas concerné / pas un sujet;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;10. Securite;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Domaine;11. Accompagner proche;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Priorité;2. Courses repas;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Priorité;6. Demarches numerique;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Solutions;Objets connectés portés;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Solutions;Détection de chute;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Solutions;Consultations à distance;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Solutions;Rénovation et confort;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Solutions;Livraison et commerces;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Solutions;Entraide entre voisins;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Aidants;Non concerné(e);1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Nouveauté;Attentiste;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Adoption;Prix abordable;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Adoption;Utilisation très simple;1;Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO10;Professionnels;Répondant;;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Bien vieillir;Rester autonome et vivre chez soi;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Bien vieillir;Garder des liens et une vie sociale;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;1. Sortir se deplacer;Quelques contraintes;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;2. Courses repas;Quelques contraintes;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;3. Soins autonomie;Quelques contraintes;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;4. Deplacement domicile securite;Des difficultés régulières;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;5. Entretien logement;Des difficultés régulières;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;6. Demarches numerique;Quelques contraintes;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;7. Sante traitements;Quelques contraintes;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;8. Coordination professionnels;Quelques contraintes;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;8. Coordination professionnels;Des difficultés régulières;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;10. Securite;Quelques contraintes;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Domaine;11. Accompagner proche;Quelques contraintes;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Solutions;Aides techniques;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Solutions;Objets connectés portés;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Solutions;Détection de chute;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Solutions;Plateformes en ligne;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Solutions;Prévention des chutes;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Solutions;Adaptation du logement;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Solutions;Rénovation et confort;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Solutions;Transports et mobilité partagée;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Aidants;Information claire aides/droits;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Aidants;Formation aux gestes;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Nouveauté;Prêt si présenté et accompagné;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PRO10;Professionnels;Adoption;Installation et prise en main assurées;1;Centre social;Semi-urbain;Fréquente;;;;;0
+PA01;Personnes âgées;Répondant;;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Urbain;;60-69;Seul(e);Maison;Aidant;1
+PA01;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Bien vieillir;Préserver sa santé et sa forme;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Bien vieillir;Se sentir en sécurité;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Bien vieillir;Se déplacer facilement;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Bien vieillir;Rester actif(ve) et utile dans la société;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;Urbain;;60-69;Seul(e);Maison;Aidant;1
+PA01;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Priorité;5. Entretien logement;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Adaptation du logement;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Maison connectée;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Objets connectés portés;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Prévention des chutes;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Stimulation de la mémoire;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Aménagement quartiers;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Détection de chute;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Robots et assistants;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Rénovation et confort;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Solutions;Projets intergénérationnels;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Aidants;Information claire aides/droits;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Aidants;Groupe d'entraide;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Nouveauté;Enthousiaste (aime essayer);1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA01;Personnes âgées;Adoption;Prix abordable;1;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA02;Personnes âgées;Répondant;;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Bien vieillir;Préserver sa santé et sa forme;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;8. Coordination professionnels;Quelques contraintes;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Priorité;8. Coordination professionnels;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Solutions;Consultations à distance;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Solutions;Prévention des chutes;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Solutions;Stimulation de la mémoire;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Aidants;Information claire aides/droits;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Aidants;Formation aux gestes;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Nouveauté;Prêt si présenté et accompagné;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Adoption;Prix abordable;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA02;Personnes âgées;Adoption;Installation et prise en main assurées;1;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA03;Personnes âgées;Répondant;;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;6. Demarches numerique;Quelques contraintes;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;8. Coordination professionnels;Pas concerné / pas un sujet;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Priorité;6. Demarches numerique;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Solutions;Applications mobiles;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Solutions;Aide et formation au numérique;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Aidants;Information claire aides/droits;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Aidants;Groupe d'entraide;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Nouveauté;Prêt si présenté et accompagné;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Adoption;Maîtrise de ses choix;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA03;Personnes âgées;Adoption;Fonctionnement fiable;1;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA04;Personnes âgées;Répondant;;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;2. Courses repas;Des difficultés régulières;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;6. Demarches numerique;Des difficultés régulières;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;7. Sante traitements;Quelques contraintes;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;8. Coordination professionnels;Quelques contraintes;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Priorité;9. Vie sociale;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Solutions;Projets intergénérationnels;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Solutions;Lieux de rencontre;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Solutions;Bénévolat et engagement;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Nouveauté;Prêt si présenté et accompagné;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA04;Personnes âgées;Adoption;Utilisation très simple;1;;;;70-79;Seul(e)|En résidence;Appartement;;0
+PA05;Personnes âgées;Répondant;;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;5. Entretien logement;Quelques contraintes;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;6. Demarches numerique;Quelques contraintes;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Domaine;10. Securite;Quelques contraintes;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Solutions;Stimulation de la mémoire;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Solutions;Aide et formation au numérique;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Solutions;Rénovation et confort;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Solutions;Bénévolat et engagement;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Aidants;Information claire aides/droits;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Nouveauté;Prêt si présenté et accompagné;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA05;Personnes âgées;Adoption;Respect de la vie privée;1;;Semi-urbain;;70-79;Seul(e);Maison;Aidant;0
+PA06;Personnes âgées;Répondant;;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;1
+PA06;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Bien vieillir;Préserver sa santé et sa forme;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Bien vieillir;Se sentir en sécurité;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Bien vieillir;Se déplacer facilement;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;1
+PA06;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Priorité;6. Demarches numerique;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Solutions;Adaptation du logement;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Solutions;Rénovation et confort;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Solutions;Lieux de rencontre;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Aidants;Non concerné(e);1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Nouveauté;Prêt si présenté et accompagné;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Adoption;Maîtrise de ses choix;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA06;Personnes âgées;Adoption;Respect de la vie privée;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA07;Personnes âgées;Répondant;;1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Bien vieillir;Préserver sa santé et sa forme;1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Solutions;Coordination des soins;1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Solutions;Bénévolat et engagement;1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Aidants;Information claire aides/droits;1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Nouveauté;Enthousiaste (aime essayer);1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Adoption;Maîtrise de ses choix;1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA07;Personnes âgées;Adoption;Respect de la vie privée;1;;Semi-urbain;;60-69;En couple|Colocation;Maison;Non concerné;0
+PA08;Personnes âgées;Répondant;;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Priorité;5. Entretien logement;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Solutions;Stimulation de la mémoire;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Solutions;Accès simplifié aux aides;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Solutions;Lieux de rencontre;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Solutions;Bénévolat et engagement;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Nouveauté;Enthousiaste (aime essayer);1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA08;Personnes âgées;Adoption;Utilisation très simple;1;;Semi-urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA09;Personnes âgées;Répondant;;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;5. Entretien logement;Quelques contraintes;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Priorité;4. Deplacement domicile securite;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Solutions;Adaptation du logement;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Solutions;Projets intergénérationnels;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Solutions;Bénévolat et engagement;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Nouveauté;Enthousiaste (aime essayer);1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Nouveauté;Prêt si présenté et accompagné;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Adoption;Prix abordable;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA09;Personnes âgées;Adoption;Utilisation très simple;1;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA10;Personnes âgées;Répondant;;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;1
+PA10;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;1
+PA10;Personnes âgées;Bien vieillir;Préserver sa santé et sa forme;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Bien vieillir;Se sentir en sécurité;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Bien vieillir;Se déplacer facilement;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Bien vieillir;Rester actif(ve) et utile dans la société;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;4. Deplacement domicile securite;Quelques contraintes;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;5. Entretien logement;Quelques contraintes;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;8. Coordination professionnels;Pas concerné / pas un sujet;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Solutions;Aides techniques;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Solutions;Activités collectives;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Solutions;Prévention des chutes;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Solutions;Stimulation de la mémoire;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Solutions;Accès simplifié aux aides;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Aidants;Information claire aides/droits;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Aidants;Formation aux gestes;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Nouveauté;Prêt si présenté et accompagné;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Adoption;Maîtrise de ses choix;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA10;Personnes âgées;Adoption;Personne joignable;1;;Urbain;;80+;Seul(e);Maison;Se prépare à aider;0
+PA11;Personnes âgées;Répondant;;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Bien vieillir;Préserver sa santé et sa forme;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Bien vieillir;Se sentir en sécurité;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Bien vieillir;Se déplacer facilement;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Bien vieillir;Rester actif(ve) et utile dans la société;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Domaine;4. Deplacement domicile securite;Pas concerné / pas un sujet;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Domaine;5. Entretien logement;Pas concerné / pas un sujet;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Priorité;9. Vie sociale;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Solutions;Entraide entre voisins;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Solutions;Aménagement quartiers;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Solutions;Lieux de rencontre;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Solutions;Accès simplifié aux aides;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA11;Personnes âgées;Adoption;Respect de la vie privée;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Répondant;;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Bien vieillir;Continuer ses activités et ses projets;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Bien vieillir;Préserver sa santé et sa forme;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Bien vieillir;Se sentir en sécurité;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Bien vieillir;Se déplacer facilement;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Bien vieillir;Rester actif(ve) et utile dans la société;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;1. Sortir se deplacer;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;6. Demarches numerique;Des difficultés régulières;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;8. Coordination professionnels;Quelques contraintes;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Domaine;10. Securite;Quelques contraintes;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Priorité;6. Demarches numerique;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Solutions;Applications mobiles;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Solutions;Plateformes en ligne;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Solutions;Aide et formation au numérique;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Nouveauté;Enthousiaste (aime essayer);1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA12;Personnes âgées;Adoption;Maîtrise de ses choix;1;;Urbain;;70-79;Seul(e);Maison;Non concerné;0
+PA13;Personnes âgées;Répondant;;1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Bien vieillir;Rester autonome et vivre chez soi;1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Bien vieillir;Garder des liens et une vie sociale;1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;1. Sortir se deplacer;Quelques contraintes;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;2. Courses repas;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;3. Soins autonomie;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;4. Deplacement domicile securite;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;5. Entretien logement;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;6. Demarches numerique;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;7. Sante traitements;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;8. Coordination professionnels;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;9. Vie sociale;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Domaine;10. Securite;Aucune difficulté, mais à anticiper;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Priorité;1. Sortir se deplacer;1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Solutions;Coordination des soins;1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Solutions;Activités collectives;1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Nouveauté;Enthousiaste (aime essayer);1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Adoption;Prix abordable;1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PA13;Personnes âgées;Adoption;Objet discret;1;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PRO03;Professionnels;Verbatim;Solution idéale;Soutenir l'autonomie – conserver le lien social;Centre social;Semi-urbain;Fréquente|Occasionnelle;;;;;0
+PRO05;Professionnels;Verbatim;Solution idéale;En HLM, des porteurs à toutes heures;Autre (aidant);Urbain;Fréquente;;;;;0
+PRO06;Professionnels;Verbatim;Solution idéale;Maison intergénération;Autre (aidant);Urbain;Très fréquente;;;;;0
+PRO07;Professionnels;Verbatim;Solution idéale;De la relation constante;CCAS / collectivité;;Rare;;;;;0
+PRO09;Professionnels;Verbatim;Solution idéale;Lien entre l'isolement et la précarité du revenu de retraite (lecture incertaine);Centre social;Semi-urbain;Très fréquente;;;;;0
+PA01;Personnes âgées;Verbatim;Irritant hors liste;Adapter mon logement;;Urbain;;60-69;Seul(e);Maison;Aidant;0
+PA02;Personnes âgées;Verbatim;Irritant hors liste;Choisir et trouver un professionnel de santé;;Urbain;;60-69;Seul(e);Appartement;Aidant;0
+PA03;Personnes âgées;Verbatim;Irritant hors liste;Numérique;;Urbain;;60-69;Seul(e);Appartement;Non concerné;0
+PA09;Personnes âgées;Verbatim;Irritant hors liste;Comment faire quand on vit dans un logement social où il n'y a pas d'ascenseur;;Urbain;;70-79;Seul(e);Appartement;Aidé par un proche;0
+PA13;Personnes âgées;Verbatim;Irritant hors liste;Me déplacer, la marche est devenue pénible;;Urbain;;70-79;Seul(e);Appartement;Non concerné;0
+PRO08;Professionnels;Verbatim;Annotation;« Digital – fracture num. » (en haut de la page);Centre social;Urbain;Fréquente;;;;;0
+PRO09;Professionnels;Verbatim;Annotation;« Lien social excepté la famille » (à côté du domaine 9);Centre social;Semi-urbain;Très fréquente;;;;;0
+PRO09;Professionnels;Verbatim;Annotation;Note manuscrite illisible à côté de la question sur les solutions;Centre social;Semi-urbain;Très fréquente;;;;;0
+PA04;Personnes âgées;Verbatim;Annotation;« 9 » écrit à côté du titre de la question sur les solutions;;;;70-79;Seul(e)|En résidence;Appartement;;0
